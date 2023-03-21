@@ -11,8 +11,8 @@ ou Índice de massa corporal de cada cliente, e atualiza na tabela.</p>
 * Busque dados em outro servidor com AJAX
 
 
- <a href="https://imgur.com/GBnqom7"><img src="https://i.imgur.com/GBnqom7" title="source: imgur.com" /></a>
-  <a href="https://imgur.com/64Tipie"><img src="https://i.imgur.com/64Tipie" title="source: imgur.com" /></a>
+ <a href="https://imgur.com/GBnqom7"><img src="https://i.imgur.com/GBnqom7.png" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/64Tipie"><img src="https://i.imgur.com/64Tipie.png" title="source: imgur.com" /></a>
 
 
 
