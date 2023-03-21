@@ -12,4 +12,4 @@ Trabalharemos com contadores e vamos criar várias funções. Vamos inserir noss
 
 Enfim, saberemos como utilizar várias opções para tornar nosso jogo bem completo. </p>
   
- <a href="https://imgur.com/a/Ga5l4AV"><img src="https://imgur.com/a/Ga5l4AV" title="source: imgur.com" /></a>
+ <a href="https://imgur.com/1oExqyO"><img src="https://i.imgur.com/1oExqyO.png" title="source: imgur.com" /></a>
