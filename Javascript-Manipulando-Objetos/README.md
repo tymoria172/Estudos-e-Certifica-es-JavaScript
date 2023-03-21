@@ -1,38 +1,10 @@
-#Projeto Lista de Compras - Utilizado no Curso Objetos no JavaScript - Escola Front-End Alura
+<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
 
-Neste arquivo encontram-se modelos de códigos que serão utilizados no decorrer do curso. 
+<p>Neste curso, aprenderemos sobre objetos no JavaScript desenvolvendo o projeto Lista de Compras, feito para listarmos itens a serem comprados, como itens de mercado, feira ou Shopping por exemplo.</p>
 
-Código modelo da li "Comprados":
-
-    <li class="item-compra is-flex is-justify-content-space-between" data-value="">
-        <div>
-            <input type="checkbox" checked class="is-clickable" />  
-            <span class="itens-comprados is-size-5"></span>
-        </div>
-        <div>
-            <i class="fa-solid fa-trash is-clickable deletar"></i>
-        </div>
-    </li>
-
-Código modelo da li "Lista de compras": 
-
-    <li class="item-compra is-flex is-justify-content-space-between" data-value="">
-        <div>
-            <input type="checkbox" class="is-clickable" />
-            <input type="text" class="is-size-5" value=""></input>
-        </div>
-        <div>
-            <i class="fa-solid fa-trash is-clickable deletar"></i>
-        </div>
-    </li>
-
-Input com código refatorado:
-
-    <div>
-        <input type="checkbox" checked class="is-clickable" />  
-        <span class="itens-comprados is-size-5">${elemento.valor}</span>
-    </div>
-
-Ícones de edição:
-
-    <i class="fa-regular fa-floppy-disk is-clickable"></i><i class="fa-regular is-clickable fa-pen-to-square editar"></i>
+## Assuntos abordados durante o curso
+* Entenda o que são e como manipular objetos no JavaScript
+* Conecte o projeto a um armazenador de dados do navegador(a API localStorage)
+* Implemente métodos para manipulação de elementos no DOM
+* Conheça características de desenvolvimento de código em JavaScript
+* Crie métodos para receber dados da pessoa usuária
