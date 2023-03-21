@@ -9,8 +9,10 @@ Para desenvolver essa aplicação, vamos nos aventurar com a biblioteca Chart.js
 Estes últimos tópicos dizem respeito à assincronicidade, então vamos aproveitar para entender mais a fundo como o JavaScript lê o código, aprendendo sobre task queue, event loop e call stack.
 
 Também estudaremos modelos de processos de leitura de código, como a de concorrência e o paralelismo. Para melhor entendimento do conceito de paralelismo, vamos compreender o que são threads, single thread e multithreads. Com os conhecimentos adquiridos nesse projeto, você aprenderá como e por que utilizar multithreads no JavaScript.
+  
+ <img src="https://imgur.com/1oExqyO" alt="Projeto">
 
-Se você se intere </p>
+</p>
 
 <p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
 <p align="center">Bytebank: o seu banco digital!</p>
