@@ -10,7 +10,7 @@ Estes últimos tópicos dizem respeito à assincronicidade, então vamos aprovei
 
 Também estudaremos modelos de processos de leitura de código, como a de concorrência e o paralelismo. Para melhor entendimento do conceito de paralelismo, vamos compreender o que são threads, single thread e multithreads. Com os conhecimentos adquiridos nesse projeto, você aprenderá como e por que utilizar multithreads no JavaScript.
   
- <img src="https://imgur.com/1oExqyO" alt="Projeto">
+ <a href="https://imgur.com/1oExqyO"><img src="https://i.imgur.com/1oExqyO.png" title="source: imgur.com" /></a>
 
 </p>
 
