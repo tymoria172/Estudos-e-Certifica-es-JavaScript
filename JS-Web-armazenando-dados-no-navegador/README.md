@@ -2,7 +2,7 @@
 
 <p>Neste curso, aprenderemos sobre como manipular os dados de um array dos itens contidos na mochila, no LocalStorage, como atualizar a quantidade de um item, e como remove-lo, faça o teste, adicione, atualize a pagina, atualize o item, e remova ele, após isso atualize a página novamente.</p>
 
-<p>Projeto funcionando em </p>
+<p>Projeto funcionando em https://estudos-e-certifica-es-java-script-kh4z-1qg34okq4-tymoria172.vercel.app</p>
 
 ## Assuntos abordados durante o curso
 * Interaja com a página e com LocalStorage
