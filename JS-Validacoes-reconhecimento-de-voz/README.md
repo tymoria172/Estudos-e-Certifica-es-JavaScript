@@ -2,6 +2,8 @@
 
 <p>Neste curso, aprenderemos como manipular alguns dados obtidos por voz, atravéz do jogo, NÚMERO SECRETO, tambem aprenderemos algumas validações avançadas que manipulam o html de forma direta.</p>
 
+<p> Jogo rodando em https://estudos-e-certifica-es-java-script-pih6-2h1poulx9-tymoria172.vercel.app</p>
+
 ## Assuntos abordados durante o curso
 * Descubra como aplicar validações em seus projeto com JavaScript
 * Crie um projeto com HTML, CSS e JavaScript do zero
